@@ -6,7 +6,7 @@ allowTitleToDifferFromFilename: true
 versions:
   feature: copilot
 shortTitle: Quickstart
-topics:
+topics:border
   - Copilot
 ---
 
